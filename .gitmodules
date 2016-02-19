@@ -1,0 +1,3 @@
+[submodule "gnupg"]
+	path = bundle/vim-gnupg
+	url = https://github.com/jamessan/vim-gnupg
