@@ -1,3 +1,6 @@
 [submodule "gnupg"]
 	path = bundle/vim-gnupg
 	url = https://github.com/jamessan/vim-gnupg
+[submodule "ansible"]
+	path = bundle/ansible-yaml
+	url = https://github.com/chase/vim-ansible-yaml
