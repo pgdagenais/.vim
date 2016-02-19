@@ -17,3 +17,6 @@ set showmatch
 " Searching
 set incsearch
 set hlsearch
+
+execute pathogen#infect()
+filetype plugin indent on
