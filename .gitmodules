@@ -4,3 +4,6 @@
 [submodule "ansible"]
 	path = bundle/ansible-yaml
 	url = https://github.com/chase/vim-ansible-yaml
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
