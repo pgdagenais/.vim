@@ -1,6 +1,7 @@
+execute pathogen#infect()
 syntax on
 set background=dark
-colorscheme desert
+colorscheme badwolf
 se t_Co=256
 
 "Spaces and Tabs
@@ -18,5 +19,4 @@ set showmatch
 set incsearch
 set hlsearch
 
-execute pathogen#infect()
 filetype plugin indent on
