@@ -17,6 +17,6 @@ set showmatch
 
 " Searching
 set incsearch
-set hlsearch
+set nohlsearch
 
 filetype plugin indent on
