@@ -7,6 +7,7 @@ se t_Co=256
 "Spaces and Tabs
 set tabstop=2
 set softtabstop=2
+set shiftwidth=2
 set expandtab
 
 " UI
