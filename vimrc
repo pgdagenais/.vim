@@ -2,7 +2,7 @@ execute pathogen#infect()
 syntax on
 set background=dark
 colorscheme badwolf
-se t_Co=256
+set t_Co=256
 
 "Spaces and Tabs
 set tabstop=2
