@@ -21,3 +21,5 @@ set incsearch
 set nohlsearch
 
 filetype plugin indent on
+au BufRead,BufNewFile {Gemfile,Vagrantfile,Berksfile} set ft=ruby
+
