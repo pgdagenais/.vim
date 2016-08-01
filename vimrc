@@ -1,7 +1,7 @@
 execute pathogen#infect()
 syntax on
 set background=dark
-colorscheme mod8 
+colorscheme gruvbox
 set t_Co=256
 
 "Spaces and Tabs
