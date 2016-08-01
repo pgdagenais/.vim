@@ -1,7 +1,7 @@
 execute pathogen#infect()
 syntax on
 set background=dark
-colorscheme hybrid 
+colorscheme mod8 
 set t_Co=256
 
 "Spaces and Tabs
