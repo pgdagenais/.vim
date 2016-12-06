@@ -19,7 +19,7 @@ set showmatch
 " Searching
 set incsearch
 set nohlsearch
+set path+=**
 
 filetype plugin indent on
 au BufRead,BufNewFile {Gemfile,Vagrantfile,Berksfile} set ft=ruby
-
