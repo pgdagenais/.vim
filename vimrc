@@ -2,6 +2,7 @@ execute pathogen#infect()
 syntax on
 set background=dark
 colorscheme gruvbox
+let g:airline_theme='badwolf'
 set t_Co=256
 
 "Spaces and Tabs
