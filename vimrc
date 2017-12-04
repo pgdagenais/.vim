@@ -22,5 +22,8 @@ set incsearch
 set nohlsearch
 set path+=**
 
+" Terraform
+let g:terraform_align=1
+
 filetype plugin indent on
 au BufRead,BufNewFile {Gemfile,Vagrantfile,Berksfile} set ft=ruby
