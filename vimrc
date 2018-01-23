@@ -25,5 +25,8 @@ set path+=**
 " Terraform
 let g:terraform_align=1
 
+" Python
+let g:python_recommended_style = 0
+
 filetype plugin indent on
 au BufRead,BufNewFile {Gemfile,Vagrantfile,Berksfile} set ft=ruby
