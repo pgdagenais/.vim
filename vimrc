@@ -5,11 +5,15 @@ colorscheme gruvbox
 let g:airline_theme='badwolf'
 set t_Co=256
 
-"Spaces and Tabs
+" Spaces and Tabs
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
 set expandtab
+
+" Backspace
+set backspace=2 " make backspace work like most other programs
+set backspace=indent,eol,start
 
 " UI
 set number
