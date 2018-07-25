@@ -1,9 +1,8 @@
 # Installation
 
 ```bash
-git clone git@github.com:pgdagenais/vim-config.git
-mv vim-config/ ~/.vim/
-cd .vim/
+git clone git@github.com:pgdagenais/.vim.git ~/.vim
+cd ~/.vim/
 git submodule update --init
 ```
 
@@ -11,8 +10,8 @@ git submodule update --init
 
 ```bash
 cd /usr/local/share/vim/
-git clone git@github.com:pgdagenais/vim-config.git
-ln -s /usr/local/share/vim/vim-config/ ~/.vim/
+git clone git@github.com:pgdagenais/.vim.git
+ln -s /usr/local/share/vim/.vim/ ~/.vim/
 cd ~/.vim/
 git submodule update --init
 ```
