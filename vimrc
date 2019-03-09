@@ -30,7 +30,6 @@ set path+=**
 let g:terraform_align=1
 
 " Python
-let g:python_recommended_style = 0
 
 " Go
 let g:go_template_autocreate = 0
