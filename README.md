@@ -6,6 +6,13 @@ cd ~/.vim/
 git submodule update --init
 ```
 
+# Update
+
+```bash
+cd ~/.vim/
+git submodule foreach git pull origin master
+```
+
 ## ChromeOS Installation with Chromebrew
 
 ```bash
