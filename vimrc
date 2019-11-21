@@ -34,6 +34,7 @@ let g:terraform_fmt_on_save=1
 
 " Go
 let g:go_template_autocreate = 0
+let g:go_version_warning = 0 " To remove when vim on chromeos get updated
 
 " Syntastic
 set statusline+=%#warningmsg#
