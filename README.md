@@ -16,7 +16,7 @@ cd ~/.vim/
 git submodule update --init
 ```
 
-# Update
+# Update packages
 
 ```bash
 cd ~/.vim/
