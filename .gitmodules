@@ -1,6 +1,3 @@
-[submodule "gnupg"]
-	path = pack/pkg/start/vim-gnupg
-	url = https://github.com/jamessan/vim-gnupg
 [submodule "bundle/syntastic"]
 	path = pack/pkg/start/syntastic
 	url = https://github.com/scrooloose/syntastic
